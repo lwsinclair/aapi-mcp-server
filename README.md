@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/asphere-xyz-aapi-mcp-server-badge.png)](https://mseep.ai/app/asphere-xyz-aapi-mcp-server)
+
 # Ankr Advanced API MCP Server ⚡
 
 This is a Model Context Protocol ([MCP](https://modelcontextprotocol.io/)) server that provides tools for interacting with Ankr's Advanced APIs. It enables AI models to fetch blockchain data and perform various operations.
